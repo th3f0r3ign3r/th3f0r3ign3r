@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `@th3f0r31gn3r`
-- 👀 I’m interested in Development and I am also a CyberSec Student
-- 🌱 I’m currently learning Development and CyberSec Stuff
+- 👀 I’m interested in Web / Mobile Development and I am also a CyberSecurity Student
+- 🌱 I’m currently learning Mobile Development and CyberSecurity Stuff
 - 💞️ I’m looking to collaborate on World Safety and Cyber Space
 - 📫 How to reach me [Twitter](https://twitter.com/p/th3f0r31gn3r), [LinkedIn](https://linkedin.com/in/ronelkpossou) or [WhatsApp](https://wa.me/+22962644431)
 
